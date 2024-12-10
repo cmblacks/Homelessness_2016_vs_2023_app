@@ -1,5 +1,8 @@
 # **Homelessness 2016 vs 2023 App**
 
+# View My Streamlit App 
+[Link to Streamlit App](https://homelessness2016vs2023.streamlit.app/)
+
 This app provides a comprehensive analysis of homelessness trends in the United States, focusing on the availability of shelter beds in 2016 and 2023. It presents data on Emergency Shelters (ES), Transitional Housing (TH), and Safe Havens (SH), comparing how the number of available beds has changed over time. Through interactive visualizations, including histograms, line charts, and scatter plots, users can explore the trends and regional disparities in bed availability. The app aims to inform policymakers, researchers, and non-profits about the effectiveness of resource allocation and guide future efforts in addressing homelessness.
 
 By breaking down the data by region or CoC, my analysis also explores geographic disparities in bed availability, offering a comprehensive view of how homelessness resources have evolved over time. My project aims to hopefully help inform decision-makers such as lawmakers, government agencies, and non-profits on the effectiveness of resource allocation and help guide future efforts in addressing homelessness in the U.S.
