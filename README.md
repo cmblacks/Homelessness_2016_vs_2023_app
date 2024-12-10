@@ -1,4 +1,4 @@
-# **Homelessness_2016_vs_2023_app**
+# **Homelessness 2016 vs 2023 App**
 
 This app provides a comprehensive analysis of homelessness trends in the United States, focusing on the availability of shelter beds in 2016 and 2023. It presents data on Emergency Shelters (ES), Transitional Housing (TH), and Safe Havens (SH), comparing how the number of available beds has changed over time. Through interactive visualizations, including histograms, line charts, and scatter plots, users can explore the trends and regional disparities in bed availability. The app aims to inform policymakers, researchers, and non-profits about the effectiveness of resource allocation and guide future efforts in addressing homelessness.
 
